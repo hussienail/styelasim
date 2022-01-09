@@ -81,11 +81,11 @@ alert( "اهلا وسهلا بكم في شات وطن الحب ❤️ سجل ع�
 $(`<style>.hand.corner{background-color:#000!important;border:2px solid #c12e2a!important;color:#f0ad4e;border-radius:0;text-align:center;border-style:solid;border-right:7px solid!important;border-left:7px solid!important;border-color:#2ea1ad;border-left-style:double!important;border-right-style:double!important}div.break.fl::before{content:" اخي الزائر اختي الزائرة اذا واجهت مشكله في دخول الشات يرجى مراسلتنا من صفحة اتصل بنا ✉️ .. ";color:#0f0!important;font-family:'jazeera',FontAwesome;font-size:16px}.break.fl{text-align:center;padding:5px!important;font-family:'jazeera',FontAwesome;color:red;-webkit-animation:mymove .5s infinite;animation:mymove .5s infinite}</style>`).insertBefore("div#tlogins .lonline.light.break");
 $('.fl.ustat')
     .css('width', '3px'), $('.fa.fa-user-plus')
-    .html(`?تسجيل `), document.getElementById('u1')
+    .html(`تسجيل `), document.getElementById('u1')
     .placeholder = 'اكتب اسمك من 5 احرف فقط ', 
 document.getElementById('pass1')
-  .placeholder = 'كلمة المرور', document.getElementById('u2')
-    .placeholder = 'فخأمة طلتك تنورنا', document.getElementById('pass2')
-    .placeholder = ' ? بـاسوردك ولاتنساه يـ جميل ', document.getElementById('u3')
-    .placeholder = '? أكتب اسمك ولازم تحفظه ';
+  .placeholder = 'حط كلمه سر وحفظه', document.getElementById('u2')
+    .placeholder = 'اشرب جاي يا زاير ', document.getElementById('pass2')
+    .placeholder = '  باسبوردك تحفظه مو تنسا ', document.getElementById('u3')
+    .placeholder = ' أكتب اسمك ولازم تحفظه ';
 
