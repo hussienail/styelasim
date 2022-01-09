@@ -8,22 +8,44 @@ $(`<a href="Shortcut.html" target="_blank" style=" font-family: 'El Messiri', sa
 $(`<style>
 .ae.fa.label.label-primary.fa-user {
     padding: 7px 12px 5px 9px;
-    padding: 7px 12px 5px 9px;
     border-radius: 3px 0 0 3px;
     border-style: solid;
     border-left: 4px solid;
     border-left-style: groove;
 }
 .ae.fa.chats.label.fa-comment.label-primary {
-    padding: 7px 15px 5px;
+    padding: 7px 13px 5px;
     margin-left: -7px!important;
     border-radius: 0;
 }
 .ae.fa.label.label-primary.fa-users {
-    padding: 7px 33px 5px 13px;
+    padding: 7px 5px 5px 13px;
     border-radius: 0;
     margin-left: -3px!important;
-    margin-right: -px;
+}
+.ae.fa.label.fa-commenting-o.label-primary {
+    padding: 7px 5px 5px 13px;
+    margin-left: -4px!important;
+    border-radius: 0;
+}
+.ae.label.label-primary.fa.fa-gear {
+    padding: 7px 5px 5px 13px;
+    border-radius: 0;
+    margin-left: -3px!important;
+}
+label.ae.fa.label.fa-users.btnClAlGr.label-primary {
+    border-radius: 0 3px 3px 0;
+    border-right: 4px solid;
+    /* border-right-style: ridge; */
+}
+
+label.ae.fa.label.fa-users.btnClAlGr.label-warning, label.ae.fa.label.fa-users.btnClAlGr.label-primary {
+    padding: 7px 5px 5px 13px;
+}
+.ae.fa.label.label-primary.fa-users {
+    padding: 7px 5px 5px 13px;
+    border-radius: 0;
+    margin-left: -3px!important;
 }
 .label-warning {
     background-color: #d9534f;
@@ -31,12 +53,24 @@ $(`<style>
     border-radius: 0;
     margin-left: -2px!important;
 }
-.ae.label.label-primary.fa.fa-gear {
-    padding: 7px 34px 5px 13px;
-    border-radius: 0;
-    margin-left: -2px!important;
+.tbox {
+    padding: 3px;
+    min-height: 28px!important;
+    border-right: 5px solid;
+    border-left: 5px solid;
+    border-color: #d2d2d2;
+    border-left-style: groove;
+    border-right-style: ridge;
+    border-radius: 3px!important;
+}
+span.busers.minix.badge.border, span.s1.fa.fa-user.label.badgex.label-as-badge.label-success, a#asim27 {
+    background-color: hsla(0, 0%, 100%, 0) !important;
+    border: hsla(0, 0%, 100%, 0) !important;
 }
 
+span.busers.minix.badge.border {
+    display: inline!important;
+}
 </style>`).insertBefore('body');
 $('.ae.label.label-primary.fa.fa-gear').html(`⠀`);
 $('label.ae.fa.label.label-primary.fa-commenting-o').html(`⠀`);
