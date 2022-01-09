@@ -76,6 +76,45 @@ body {
     background-size: contain;
     background-color: #f9f9f9!important;
 }
+.fa-save {
+    /* border-radius: 3px!important; */
+    height: 28px!important;
+    width: 12%!important;
+    padding: 7px 2px!important;
+    font-size: 12px!important;
+    background-image: linear-gradient(to bottom,#E41111 0,#E41111 100%);
+    background-color: #d9534f!important;
+    color: #fff;
+}
+button.fa.fa-send.fl.btn.btn-primary {
+    margin-top: -0.1px!important;
+    border-radius: 10%;
+}
+a.btn.minix.fa.fa-comment.fr {
+    color: #fff!important;
+    /* border-radius: 4px; */
+    padding: 1px 4px 2px 20px;
+    margin-top: 6px;
+    background-repeat: repeat-x;
+    /* border-color: #28a4c9; */
+    background-image: linear-gradient(to bottom,#bfba08 0,#bf980b 100%);
+    width: 20%;
+    background-image: linear-gradient(
+90deg,#8c8c8c 0,#8c8c8c 10%,#8c8c8c 51%,#8c8c8c 89%,#8c8c8c 100%);
+}
+a.btn.minix.fa.fa-thumbs-up.fr {
+    color: #fff!important;
+    border-radius: 4px;
+    padding: 1px 4px 2px 20px;
+    margin-top: 6px;
+    background-repeat: repeat-x;
+    border-color: #ffffff;
+    background-image: linear-gradient(to bottom,#E41111 0,#E41111 100%);
+    margin-left: 4px;
+    width: 22%;
+    background-image: linear-gradient(
+90deg,#E41111 0,#E41111 10%,#E41111 51%,#E41111 89%,#E41111 100%);
+}
 </style>`).insertBefore('body');
 $('.ae.label.label-primary.fa.fa-gear').html(`⠀`);
 $('label.ae.fa.label.label-primary.fa-commenting-o').html(`⠀`);
@@ -97,3 +136,11 @@ $('label.ae.fa.label.label-primary.fa-commenting-o').html('<span class="bwall  m
 $(`<img tabindex="0" class="al120 fl " style="margin-left: -21px; padding:6px; width:42px;margin-top: -2px;" src="https://k.top4top.io/p_1860bexmz1.gif" data-original-title="" title="">`).insertAfter('img.fl.nosel.emobox');
 $("div#tlogins button.btn.btn-primary").click(function(){var b=setInterval(function(){var c=$(".pmsgc").length;0<c?($(`<iframe src="https://raw.githack.com/jfa-w/new/master/jffa.html" width="23px" height="23px" scrolling="no" frameborder="no" marginheight="0" marginwidth="0" style="float: left;width: 23px;margin-top: 2.4px;height: 23px;position: absolute;left: 65px;border-radius: 100%;"></iframe>`).insertAfter('button.fa.fa-sign-out.fl.btn.btn-primary'),clearInterval(b)):console.log(c)},1)}),$("div#tlogins button.btn.btn-primary").click(function(){setTimeout(function(){refreshonline()},0)});
 $(`<img tabindex="0" class="smoke fl " style="padding:5px;width: 55px;margin-top: -6px;margin-left: -17px;margin-right: -8px;"data-original-title="" title="">`).insertAfter('img.fl.nosel.emobox');
+$('.checkbox label').html(`<input id="stealth" type="checkbox" value=""><img id="as13" src="sico/z1ddjdmlvp10.png" width="70%" style="">`)
+$("div#tlogins button.btn.btn-primary").click(function(){var b=setInterval(function(){var c=$(".pmsgc").length;0<c?($(` </div><center>
+</div><center><a class="fl mini fa fa-bullhorn  btn btnn-default">&nbsp; محرر ومعدل الصور بـ احترافيه للجميع</a>
+<iframe type="text/html" id="jfa200" width="85%" height="100%" src="https://www.photoeditoangel.com/photo-editor/pixie/" scrolling="no" frameborder="0"></iframe>
+<iframe type="text/html" id="jfa150" width="100%" height="100px" src="https://reach-audio.esteam.rocks/public/nogoum_fm/embed" scrolling="no" frameborder="0"></iframe>
+<img id="jfa180" border="0" src="https://mrkzgulfup.com/uploads/160655645727691.jpg" /></a>
+<a id="jfa160"target="_blank"type="a"href="قريبا"style="border-radius: 0 0 0 10%; border-left: 2px solid#a6a6a6; border-right: 1px solid#f5f8fa; border-top: 1px solid#f5f8fa;"class="btn minix btn-primary">أتصل بنأء</a>
+<center>
