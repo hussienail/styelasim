@@ -196,6 +196,91 @@ img.fl.fitimg.hand.u-pic {
     left: 0;
     margin-top: -3px;
 }
+.fl.mini.fa.fa-bullhorn.btn.btnn-default {
+    font-size: 14px!important;
+    width: 100%;
+    background-color: #1565c0!important;
+    color: #fff;
+    text-align: center;
+    border-radius: 10%;
+    margin-bottom: 3px;
+    margin-top: 1px;
+    height: 25px;
+    padding: 5px 0;
+    margin-left: 1px;
+    /* background: url(https://i.servimg.com/u/f23/16/43/22/50/shadwu10.png) no-repeat scroll left top transparent; */
+    /* height: 12px; */
+    /* margin: auto; */
+    /* position: relative; */
+    /* width: 100%; */
+}
+#jfa200 {
+    margin-top: 9px;
+    width: 100%;
+    height: 366.4px;
+    border: 12px solid #E31111;
+    border-top-style: double;
+    border-style: double;
+    border-radius: 10px;
+    border-right-width: medium;
+    border-left-style: hidden;
+    background: url(https://i.servimg.com/u/f23/16/43/22/50/shadwu10.png) no-repeat scroll left top transparent;
+    background-repeat: repeat;
+    border-right-width: thin;
+    border-right-style: dashed;
+    border-left-style: dashed;
+    border-left-width: thin;
+}
+#jfa150 {
+    width: 100%;
+    height: 130.4px!important;
+    border: 6px solid #E31111;
+    border-top-style: double;
+    border-style: double;
+    border-radius: 20px;
+    border-right-width: medium;
+    border-left-style: hidden;
+    background: url(https://i.servimg.com/u/f23/16/43/22/50/shadwu10.png) no-repeat scroll left top transparent;
+    /* border-top-style: none; */
+    background-repeat-x: repeat;
+    background-repeat-x: repeat;
+    margin-top: 1%;
+    border-right-style: none;
+    /* border-top-color: currentcolor; */
+    background-position: center!important;
+    border-bottom-style: hidden;
+}
+#jfa180 {
+    /* border-bottom: #E31111; */
+    width: 100%;
+    height: 200%;
+    border-top-style: double;
+    border-style: double;
+    border-radius: 8px;
+    margin-top: -27px;
+}
+#jfa160 {
+    border-bottom: #E31111;
+    width: 26%;
+    height: 30px;
+    /* border-top-style: double!important; */
+    /* border-style: double!important; */
+    border-radius: 8px!important;
+    margin-top: -185px;
+    margin-left: 180px;
+    background: #4aa14a!important;
+    border-radius: 5px 99px 6px!important;
+    margin-top: -970px;
+    margin-left: -259px;
+    background: #1565c0!important;
+    padding: 6px 0px 0px;
+    border-left: 5px solid#ffffff00!important;
+    border-right: 5px #ffffff00 solid!important;
+    transform: rotate(
+273deg);
+    color: #ffffff;
+    font: menu;
+}
 </style>`).insertBefore('body');
 $('.ae.label.label-primary.fa.fa-gear').html(`⠀`);
 $('label.ae.fa.label.label-primary.fa-commenting-o').html(`⠀`);
