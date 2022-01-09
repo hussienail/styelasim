@@ -168,7 +168,34 @@ img.fl.fitimg.hand.u-pic {
   border:1px solid#E41111;
   background-size:cover;
 }
-
+.rating-box {
+    color: #707070;
+    text-shadow: 0px 1px 10px black;
+    margin: -2228px auto 2px auto;
+    height: 20px;
+    transform: rotate( 
+271deg);
+    position: absolute;
+    top: 100px;
+    right: 2px;
+    border-top: 2px solid #f50784;
+    border-bottom: 2px solid #f50784;
+    margin-bottom: 2px;
+    border-radius: 10px 10px 10px 10px;
+}
+.rating-star {
+    width: 15px;
+    height: 20px;
+    padding: 0 2px;
+    position: relative;
+    display: block;
+    float: left;
+}
+.empty-star:before {
+    position: absolute;
+    left: 0;
+    margin-top: -3px;
+}
 </style>`).insertBefore('body');
 $('.ae.label.label-primary.fa.fa-gear').html(`⠀`);
 $('label.ae.fa.label.label-primary.fa-commenting-o').html(`⠀`);
