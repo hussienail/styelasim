@@ -6,98 +6,35 @@ $(`<img src ="sico/1640469664951.gif
 $('.fa.fa-user-plus').html(`تسجيل`);(document.getElementById("tbox").placeholder = "عمي عوف السطح ودردش ويانا");
 $(`<a href="Shortcut.html" target="_blank" style=" font-family: 'El Messiri', sans-serif;width:107px;color: #E8415D;text-decoration:none; margin-right: 5px;margin-left: 2px;text-align: center;float: right;border-radius: 5px;border-color: #F2F2F2;padding: 3px;" class="border" ><i class="fa fa-reddit-alien"></i>&nbsp;اختصارات</a>`).insertBefore('a.fl.fa.fa-ban.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.umute.borderg');var nopm = !0;var nonot = !0;
 $(`<style>
-div.break.border.light.tab-pane.active {
-    background: linear-gradient(
-90deg, rgb(255 255 255) 6%, rgb(255 255 255) 16%, rgb(255 255 255) 64%, rgb(255 255 255) 95%, rgb(255 255 255) 100%);
+.ae.fa.label.label-primary.fa-user {
+    padding: 7px 12px 5px 9px;
+    padding: 7px 12px 5px 9px;
+    border-radius: 3px 0 0 3px;
+    border-style: solid;
+    border-left: 4px solid;
+    border-left-style: groove;
 }
-button.btn.btn-primary.btn-sm {
-width: 100%;
-    color: #ff0a0a;
-    background-color: #885867;
-    padding: 8px;
-    display: block;
-    height: 35px;
-    background-image: repeating-linear-gradient( 
-45deg ,rgb(59 86 120 / 64%),#3b5678 100px,transparent 0,transparent 200px),repeating-linear-gradient( 
--45deg ,rgb(115 133 156),#3b5678 100px,transparent 0,#f8f9fa 200px);
-    background-color: #f0ad4e!important;
-    border-radius: 9;
-    border: 1px solid #f7f7f7;
-    margin-bottom: 4px;
-    font-family: jazeera,FontAwesome;
-    font-size: 13px!important;
+.ae.fa.chats.label.fa-comment.label-primary {
+    padding: 7px 15px 5px;
+    margin-left: -7px!important;
+    border-radius: 0;
 }
-span.busers.minix.badge.border, span.s1.fa.fa-user.label.badgex.label-as-badge.label-success, a#asim27 {
-    background-color: hsla(0, 0%, 100%, 0) !important;
-    border: hsla(0, 0%, 100%, 0) !important;
+.ae.fa.label.label-primary.fa-users {
+    padding: 7px 33px 5px 13px;
+    border-radius: 0;
+    margin-left: -3px!important;
+    margin-right: -px;
 }
-
-span.busers.minix.badge.border {
-    display: inline!important;
+.label-warning {
+    background-color: #d9534f;
+    background-image: url(https://k.top4top.io/p_1871wwqvi1.gif);
+    border-radius: 0;
+    margin-left: -2px!important;
 }
-div#d2bc .uzr.fl.corner.borderg  {
-    width: 95% !important;
-    background: repeating-linear-gradient( 
-45deg , rgba(255, 255, 255, 0.8), rgb(255, 255, 255) 100px, #ffffffb0 0px, #fff6f699 200px), repeating-linear-gradient( 
--45deg , rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.93) 100px, #b3adadd1 0px, #ffffffe6 200px);
-    color: #0f0202;
-    padding: 2px 1px !IMPORTANT;
-    left: 6px;
-    border-radius: 0px 14px 0px 14px !important;
-    box-shadow: 0 0 10px 0 #000;
-    margin: 6px;
-    margin-left: 10px !important;
+.ae.label.label-primary.fa.fa-gear {
+    padding: 7px 34px 5px 13px;
+    border-radius: 0;
+    margin-left: -2px!important;
 }
-span.s1.fa.fa-user.label.badgex.label-as-badge.label-success::before {
-display: none!important;
-}
-div.modal-header.label-primary {
-color: #fff;
-    background-color: #885867;
-    padding: 8px;
-    display: block;
-    height: 35px;
-    background-image: repeating-linear-gradient( 
-45deg ,rgb(59 86 120 / 64%),#3b5678 100px,transparent 0,transparent 200px),repeating-linear-gradient( 
--45deg ,rgb(115 133 156),#3b5678 100px,transparent 0,#f8f9fa 200px);
-    background-color: #f0ad4e!important;
-    border-radius: 9;
-    border: 1px solid #f7f7f7;
-    margin-bottom: 4px;
-}
-.light.fl.pro.center.break {
-    top: -4px;
-    padding: 5px;
-    border-radius: 10px !important;
-    box-shadow: 7px 7px 50px #000;
-    border: 3px solid hsla(0,0%,100%,.8588235294117647)!important;
-    background: hsl(0deg 0% 100% / 85%)!important;
-}
-.btn.minix.btn-primary.fa.fa-times.fr {
-background: #ffffff00 !important;
-    color: #ff0000;
-    border: 0px;
-    FONT-WEIGHT: 500 !important;
-}
-.btn.minix.btn-primary.fa.fa-reply.fr {
-    background: #ffffff00 !important;
-    color: #168f00;
-    border: 0px;
-    FONT-WEIGHT: 500 !important;
-}
-.fitimg.u-pic {
-    border-radius: 50%;
-    width: 200px !important;
-    height: 200px !important;
-    animation: asim12 3.5s !important;
-}
- @keyframes asim12 {
-        from {
-          transform: rotate(0deg) scale(1);
-        }
-        to {
-          transform: rotate(360deg) scale(1);
-        }
-      }
 
 </style>`).insertBefore('body');
