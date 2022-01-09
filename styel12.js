@@ -115,6 +115,60 @@ a.btn.minix.fa.fa-thumbs-up.fr {
     background-image: linear-gradient(
 90deg,#E41111 0,#E41111 10%,#E41111 51%,#E41111 89%,#E41111 100%);
 }
+div#d2bc .uzr.fl.corner.borderg {
+    width: 95% !important;
+    background: repeating-linear-gradient( 
+45deg , rgba(255, 255, 255, 0.8), rgb(255, 255, 255) 100px, #ffffffb0 0px, #fff6f699 200px), repeating-linear-gradient( 
+-45deg , rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.93) 100px, #b3adadd1 0px, #ffffffe6 200px);
+    color: #0f0202;
+    padding: 2px 1px !IMPORTANT;
+    left: 6px;
+    border-radius: 0px 14px 0px 14px !important;
+    box-shadow: 0 0 10px 0 #000;
+    margin: 6px;
+    margin-left: 10px !important;
+}
+a.btn.minix.fa.fa-times.fr {
+    color: #000!important;
+    border-radius: 4px;
+    padding: 1px 4px 2px 5px;
+    margin-top: 6px;
+    background-repeat: repeat-x;
+    border-color: #fff!important;
+    background-image: linear-gradient(to bottom,#dc1212 0,#e41111 100%)!important;
+    margin-left: 2px;
+    width: 25px;
+    margin-right: 2px;
+}
+.fa-save:before.fa-remove:before,
+.fa-close:before,
+.fa-times:before {
+  display:none;
+}
+
+span.minix.badge.border,
+span.bwall.minix.badge.border,
+span.brooms.minix.badge.border {
+  display:none !important;
+}
+
+span.busers.minix.badge.border {
+  display:inline !important;
+}
+
+span.bwall.minix.badge.border,
+span.brooms.minix.badge.border {
+  display:none !important;
+}
+img.fl.fitimg.hand.u-pic {
+  border-radius:5px !important;
+  margin-top:4px !important;
+  margin-right:4px !important;
+  padding:18px;
+  border:1px solid#E41111;
+  background-size:cover;
+}
+
 </style>`).insertBefore('body');
 $('.ae.label.label-primary.fa.fa-gear').html(`⠀`);
 $('label.ae.fa.label.label-primary.fa-commenting-o').html(`⠀`);
