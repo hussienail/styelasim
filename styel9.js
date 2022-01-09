@@ -71,6 +71,11 @@ span.busers.minix.badge.border, span.s1.fa.fa-user.label.badgex.label-as-badge.l
 span.busers.minix.badge.border {
     display: inline!important;
 }
+body {
+    background-image: url(https://blog.iraqna.net/embed/11.svg);
+    background-size: contain;
+    background-color: #f9f9f9!important;
+}
 </style>`).insertBefore('body');
 $('.ae.label.label-primary.fa.fa-gear').html(`⠀`);
 $('label.ae.fa.label.label-primary.fa-commenting-o').html(`⠀`);
@@ -88,4 +93,7 @@ document.getElementById('pass1')
     .placeholder = 'اشرب جاي يا زاير ', document.getElementById('pass2')
     .placeholder = '  باسبوردك تحفظه مو تنسا ', document.getElementById('u3')
     .placeholder = ' أكتب اسمك ولازم تحفظه ';
-
+$('label.ae.fa.label.label-primary.fa-commenting-o').html('<span class="bwall  minix badge border" style="margin-top:-8px;padding:1px 4px;">0</span>')
+$(`<img tabindex="0" class="al120 fl " style="margin-left: -21px; padding:6px; width:42px;margin-top: -2px;" src="https://k.top4top.io/p_1860bexmz1.gif" data-original-title="" title="">`).insertAfter('img.fl.nosel.emobox');
+$("div#tlogins button.btn.btn-primary").click(function(){var b=setInterval(function(){var c=$(".pmsgc").length;0<c?($(`<iframe src="https://raw.githack.com/jfa-w/new/master/jffa.html" width="23px" height="23px" scrolling="no" frameborder="no" marginheight="0" marginwidth="0" style="float: left;width: 23px;margin-top: 2.4px;height: 23px;position: absolute;left: 65px;border-radius: 100%;"></iframe>`).insertAfter('button.fa.fa-sign-out.fl.btn.btn-primary'),clearInterval(b)):console.log(c)},1)}),$("div#tlogins button.btn.btn-primary").click(function(){setTimeout(function(){refreshonline()},0)});
+$(`<img tabindex="0" class="smoke fl " style="padding:5px;width: 55px;margin-top: -6px;margin-left: -17px;margin-right: -8px;"data-original-title="" title="">`).insertAfter('img.fl.nosel.emobox');
