@@ -38,3 +38,10 @@ $(`<style>
 }
 
 </style>`).insertBefore('body');
+$('.ae.label.label-primary.fa.fa-gear').html(`⠀`);
+$('label.ae.fa.label.label-primary.fa-commenting-o').html(`⠀`);
+$('.ae.fa.label.label-primary.fa-users').html(`⠀`);
+$( "div#l1 button.btn.btn-primary" ).bind( "click", function() {
+alert( "اهلا وسهلا بكم في شات وطن الحب ❤️ سجل عضوية تحصل على 5000 لايك وزخرفة :: طريقة التسجيل اضغط على خيار (تسجيل) اكتب (اكتب اسمك المستعار + كلمة المرور ) وبعدها اضغط دخول" );
+});
+$(`<style>.hand.corner{background-color:#000!important;border:2px solid #c12e2a!important;color:#f0ad4e;border-radius:0;text-align:center;border-style:solid;border-right:7px solid!important;border-left:7px solid!important;border-color:#2ea1ad;border-left-style:double!important;border-right-style:double!important}div.break.fl::before{content:" اخي الزائر اختي الزائرة اذا واجهت مشكله في دخول الشات يرجى مراسلتنا من صفحة اتصل بنا ✉️ .. ";color:#0f0!important;font-family:'jazeera',FontAwesome;font-size:16px}.break.fl{text-align:center;padding:5px!important;font-family:'jazeera',FontAwesome;color:red;-webkit-animation:mymove .5s infinite;animation:mymove .5s infinite}</style>`).insertBefore("div#tlogins .lonline.light.break");
