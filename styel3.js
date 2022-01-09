@@ -85,7 +85,7 @@ background: #ffffff00 !important;
     border: 0px;
     FONT-WEIGHT: 500 !important;
 }
-.light.fl.pro.center.break img.u-pic.fitimg {
+.fitimg.u-pic {
     border-radius: 50%;
     width: 200px !important;
     height: 200px !important;
