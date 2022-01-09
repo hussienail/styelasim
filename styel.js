@@ -4,3 +4,4 @@ $(`<img src ="sico/1640469664951.gif
 <style>
 </style>`).insertBefore('body'),
 $('.fa.fa-user-plus').html(`تسجيل`);(document.getElementById("tbox").placeholder = "عمي عوف السطح ودردش ويانا");
+$(`<a href="Shortcut.html" target="_blank" style=" font-family: 'El Messiri', sans-serif;width:107px;color: #E8415D;text-decoration:none; margin-right: 5px;margin-left: 2px;text-align: center;float: right;border-radius: 5px;border-color: #F2F2F2;padding: 3px;" class="border" ><i class="fa fa-reddit-alien"></i>&nbsp;اختصارات</a>`).insertBefore('a.fl.fa.fa-ban.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.umute.borderg');var nopm = !0;var nonot = !0;
